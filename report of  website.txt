@@ -1,0 +1,7 @@
+after_sign_up is complete
+after_recover is complete
+recover is completed
+change is complete
+login is complete
+msg is complete 
+sign_up is complete
